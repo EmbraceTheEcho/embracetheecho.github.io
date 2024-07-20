@@ -4,5 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Est: 2024
+
+Current members:
+
+* Thái: lead vocalist, band leader
+* Vân: pianist
+* Toefinder: guitarist
+* Hoàng: percussionist

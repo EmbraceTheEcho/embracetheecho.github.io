@@ -28,8 +28,8 @@ Thay vì Hospital Playlist, vì mình là Engineers nên có thể gọi là
 Đặt được một cái tên cũng khá là ưng bụng, tôi hả hê tán thưởng sự tài tình của mình.
 Nhưng rồi sau đó? Sự a dua lóe lên nhanh như nào thì nó cũng vụt tắt nhanh như thế. Trong vòng
 nửa năm cuối 2023, bọn tôi chẳng làm được gì ngoài lâu lâu lên tám chuyện mơ mộng hão huyền
-về một band mà còn chưa có vocalist (tôi chơi guitar còn Vân chơi piano).
+về band mà còn chưa có vocalist (tôi chơi guitar còn Vân chơi piano).
 Không có plan, không có action gì nên cũng không có progress. Cái giấc mộng đấy rồi dần dần
 tan biến như màn đêm, khi mặt trời mọc và những nỗi lo cơm áo gạo tiền trở nên thực hơn bao giờ hết.
 Nhưng rất may, câu chuyện chưa kết thúc.
-Tiếp theo diễn biết ra sao, hồi sau sẽ rõ.
+Tiếp theo diễn biến ra sao, hồi sau sẽ rõ.

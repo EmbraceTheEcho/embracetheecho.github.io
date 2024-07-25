@@ -3,6 +3,19 @@ Source code for the band Embrace The Echo: a band of engineers in the 21st centu
 
 ## How to contribute
 
+### References
+
+The site is built upon [chirpy-starter](https://github.com/cotes2020/chirpy-starter).
+Edit the files in folder `_posts` and `_tabs` according to [these docs](https://github.com/cotes2020/jekyll-theme-chirpy/tree/fbba0a4204f6aea9816b92b357ccd0969d41c53f/_posts).
+
+Important files and folders:
+
+* `_config.yaml`
+* `_tabs/about.md`: about tab
+* `_posts/<article>.md`: content of the site
+* `assets/`: the assets (icons, images, etc)
+* `_data/authors.yml`: list of authors
+
 ### Important branches
 
 1. `main` branch: hosting the cutting edge, most updated version of our story. 

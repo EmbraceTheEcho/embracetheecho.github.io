@@ -25,6 +25,9 @@ Thay vì Hospital Playlist, vì mình là Engineers nên có thể gọi là
 
 **The Engineers' Playlist.**
 
+![Hospital Playlist](/assets/img/posts/hospital_playlist_band.jpg){: width="700" height="400" }
+_Band in Hospital Playlist, retrieved from [imdb](https://m.imdb.com/title/tt11769304/mediaviewer/rm1235024897/?ref_=ttmi_mi_all_130)_
+
 Đặt được một cái tên cũng khá là ưng bụng, tôi hả hê tán thưởng sự tài tình của mình.
 Nhưng rồi sau đó? Sự a dua lóe lên nhanh như nào thì nó cũng vụt tắt nhanh như thế. Trong vòng
 nửa năm cuối 2023, bọn tôi chẳng làm được gì ngoài lâu lâu lên tám chuyện mơ mộng hão huyền

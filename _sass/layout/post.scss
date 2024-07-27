@@ -97,7 +97,7 @@ header {
 
         &:hover {
           i {
-            @extend %btn-share-hovor;
+            @extend %btn-share-hover;
           }
         }
       }
@@ -330,7 +330,7 @@ header {
   max-width: 100%;
 }
 
-%btn-share-hovor {
+%btn-share-hover {
   color: var(--btn-share-hover-color) !important;
 }
 
